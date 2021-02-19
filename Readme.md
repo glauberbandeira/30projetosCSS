@@ -7,8 +7,8 @@ todos os dias, meu compromisso é de realizar o desafio
 
 **Youtube Referencias dos desafios**
 
- [DarkCode] (https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
- [Online Tutorials] (https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
+ [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
+ [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
 
  - [Projeto 01] ()
  - [Projeto 02] ()
