@@ -1,9 +1,9 @@
 ##30projetosDeCSS
 
-Decidi fazer 30 dias de CSS3, para ajudar a melhorar minha habilidades de codificação, fazendo mini projetos diarios utilizando HTML5 e CSS3.
+Decidi fazer 30 projetos de CSS3, para ajudar a melhorar minha habilidades de codificação, fazendo mini projetos diarios utilizando HTML5 e CSS3.
 
 Devido a correria do dia a dia, não vou ter o compromisso de realizar o desafio
-todos os dias, meu compromisso é de realizar o desafio
+todos os dias, meu compromisso é de realizar o desafio por completo em menos tempo possível.
 
 **Youtube Referencias dos desafios**
 
