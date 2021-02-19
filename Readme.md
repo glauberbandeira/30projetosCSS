@@ -11,7 +11,7 @@ todos os dias, meu compromisso é de realizar o desafio por completo em menos te
  [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
 
  - [Projeto 01](https://github.com/glauberbandeira/30projetosCSS/tree/master/01)
- ![](/30projetosCSS/blob/master/images/01.gif)
+ <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/images/01.gif" width="512" height="400">
  
  - [Projeto 02] ()
  - [Projeto 03] ()
