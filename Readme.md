@@ -1,17 +1,20 @@
 ##30projetosDeCSS
 
-Decidi fazer 30 dias de CSS3, para ajudar a melhorar minha habilidades de codificação, fazendo mini projetos diarios utilizando HTML5 e CSS3.
+Decidi fazer 30 projetos de CSS3, para ajudar a melhorar minha habilidades de codificação, fazendo mini projetos diarios utilizando HTML5 e CSS3.
 
 Devido a correria do dia a dia, não vou ter o compromisso de realizar o desafio
-todos os dias, meu compromisso é de realizar o desafio
+todos os dias, meu compromisso é de realizar o desafio por completo em menos tempo possível.
 
 **Youtube Referencias dos desafios**
 
- [DarkCode] (https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
- [Online Tutorials] (https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
+ [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - 
+ [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) -
 
- - [Projeto 01] ()
- - [Projeto 02] ()
+ - [Projeto 01](https://github.com/glauberbandeira/30projetosCSS/tree/master/01)
+ <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/images/01.gif" width="700" height="400">
+ 
+ - [Projeto 02] (https://github.com/glauberbandeira/30projetosCSS/tree/master/02)
+
  - [Projeto 03] ()
  - [Projeto 04] ()
  - [Projeto 05] ()
