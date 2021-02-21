@@ -14,7 +14,7 @@ todos os dias, meu compromisso é de realizar o desafio por completo em menos te
  <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/images/01.gif" width="700" height="400">
  
  - [Projeto 02](https://github.com/glauberbandeira/30projetosCSS/tree/master/02)
- <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/02/login.gif" width="700" height="700">
+ <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/02/login.gif" width="800" height="700">
 
  - [Projeto 03] ()
  - [Projeto 04] ()
