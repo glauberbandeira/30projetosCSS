@@ -1,4 +1,4 @@
-##30projetosDeCSS
+## 30projetosDeCSS
 
 Decidi fazer 30 projetos de CSS3, para ajudar a melhorar minha habilidades de codificação, fazendo mini projetos diarios utilizando HTML5 e CSS3.
 
@@ -13,7 +13,7 @@ todos os dias, meu compromisso é de realizar o desafio por completo em menos te
  - [Projeto 01](https://github.com/glauberbandeira/30projetosCSS/tree/master/01)
  <img src="https://github.com/glauberbandeira/30projetosCSS/blob/master/images/01.gif" width="700" height="400">
  
- - [Projeto 02] (https://github.com/glauberbandeira/30projetosCSS/tree/master/02)
+ - [Projeto 02](https://github.com/glauberbandeira/30projetosCSS/tree/master/02)
 
  - [Projeto 03] ()
  - [Projeto 04] ()
