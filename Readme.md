@@ -19,9 +19,9 @@ todos os dias, meu compromisso é de realizar o desafio por completo em menos te
  - [Projeto 03](https://github.com/glauberbandeira/30projetosCSS/tree/master/03) 
  
  - [Projeto 04](https://github.com/glauberbandeira/30projetosCSS/tree/master/04)
- - 
+ 
  - [Projeto 05](https://github.com/glauberbandeira/30projetosCSS/tree/master/05)
- - 
+ 
  - [Projeto 06] ()
  - [Projeto 07] ()
  - [Projeto 08] ()
