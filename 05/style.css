@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 35%, rgba(20,75,168,1) 100%);
+}
+.dots {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dots div {
+    width: 100px;
+    height: 100px;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 50%;
+    margin-left: 15px;
+    animation: mover 1s ease-in-out infinite alternate;
+}
+.dots div:nth-child(1) {
+    animation-delay: -0.6s;
+}
+.dots div:nth-child(2) {
+    animation-delay: -0.5s;
+}
+.dots div:nth-child(3) {
+    animation-delay: -0.4s;
+}
+.dots div:nth-child(4) {
+    animation-delay: -0.3s;
+}
+.dots div:nth-child(5) {
+    animation-delay: -0.2s;
+}
+.dots div:nth-child(6) {
+    animation-delay: -0.1s;
+}
+
+@keyframes mover {
+    from {
+        transform: translateY(-100%);
+    }
+    to {
+        transform: translateY(100%);
+    }
+}
